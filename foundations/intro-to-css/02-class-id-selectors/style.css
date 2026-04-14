@@ -5,7 +5,8 @@
      font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 
-.three {
+.three,
+#four {
     font-size: 24px;
 }
 
@@ -16,6 +17,5 @@
 
 #four {
     font-weight: bold;
-    font-size: 24px;
     background-color: #17ff4a
 }
